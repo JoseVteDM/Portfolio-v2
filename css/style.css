@@ -1,0 +1,57 @@
+footer {
+    padding: 55px 0;
+    font-size: 13px;
+    background: #f4f4f4;
+}
+
+footer h6{
+    text-transform: uppercase;
+}
+
+footer p {
+    font-size: 16px;
+    color: black;
+}
+
+footer a{
+    color: black;
+}
+
+.img-fluid:hover{    
+    opacity: 0.5;
+    display: block;
+
+    ;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+.img-responsive{
+    height: 30em;
+    width: 32 em;
+}
+
+.software h4{
+    color: dimgrey;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    ;
+}
+.carousel-control-next-icon{
+    color:black;
+}
+
+.text-center{
+    color: dimgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.WARE h6{
+    color: dimgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px
+}
+
+.WAREs h6{
+    font-size: 9S0px
+}
